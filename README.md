@@ -3,8 +3,8 @@
 - Pronomes: ele/dele
 <div align="center">
   <a href="https://github.com/DaniloParavani">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DaniloParavani&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloParavani&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=DaniloParavani&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloParavani&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Perl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg">
